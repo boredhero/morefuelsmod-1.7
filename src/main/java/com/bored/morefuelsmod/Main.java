@@ -16,8 +16,8 @@ import com.bored.morefuelsmod.Fuels;
 @Mod(modid = Main.MODID, version = Main.VERSION, name=Main.MODNAME)
 public class Main {
 
-	public static final String MODID = "morefuels";
-	public static final String VERSION = "1.2.1-DEV";
+	public static final String MODID = "morefuelsmod";
+	public static final String VERSION = "1.3.1-DEV";
 	public static final String MODNAME = "More Fuels Mod";
 	
 	@Instance(value = Main.MODID)
