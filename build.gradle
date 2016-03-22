@@ -17,9 +17,9 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.0"
-group= "com.yourname.modid" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "modid"
+version = "v1.3.0"
+group= "com.bored.morefuelsmod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "morefuelsmod-1.7.x"
 
 minecraft {
     version = "1.7.10-10.13.4.1614-1.7.10"
