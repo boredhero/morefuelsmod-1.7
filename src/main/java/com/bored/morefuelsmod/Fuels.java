@@ -153,7 +153,7 @@ public class Fuels implements IFuelHandler{
 				}
 				if (fuel.getItem() == Items.chest_minecart){
 				//Vanilla chest burns for 300 ticks.
-					return 320;
+					return 400;
 				}
 				return 0;
 			}
