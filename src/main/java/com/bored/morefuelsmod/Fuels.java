@@ -155,6 +155,10 @@ public class Fuels implements IFuelHandler{
 				//Vanilla chest burns for 300 ticks.
 					return 400;
 				}
+				//Adding TNT
+				if (fuel.getItem() == Item.getItemFromBlock(Blocks.tnt)){
+					return 8080;
+				}
 				return 0;
 			}
 		}

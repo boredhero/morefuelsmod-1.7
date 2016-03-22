@@ -77,3 +77,4 @@ Leather Helmet = 500  Ticks or 25  Seconds
 Leather Pants  = 700  Ticks or 35  Seconds
 Wooden Button  = 300  Ticks or 15  Seconds
 Chest Minecart = 400  Ticks or 20  Seconds
+TNT            = 8080 Ticks or 404 Seconds
