@@ -151,6 +151,10 @@ public class Fuels implements IFuelHandler{
 				if (fuel.getItem() == Item.getItemFromBlock(Blocks.wooden_button)){
 					return 300;
 				}
+				if (fuel.getItem() == Items.chest_minecart){
+				//Vanilla chest burns for 300 ticks.
+					return 320;
+				}
 				return 0;
 			}
 		}
