@@ -1,16 +1,17 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "morefuelsmod-1.8.x",
+  "name": "More Fuels Mod",
+  "description": "A mod that makes more items usable as fuel.",
+  "version": "1.3.0",
+  "mcversion": "1.8.x",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["boredherobrine13"],
+  "credits": "boredherobrine13",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
 }
 ]
+
