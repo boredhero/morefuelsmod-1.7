@@ -22,7 +22,7 @@ group= "com.bored.morefuelsmod" // http://maven.apache.org/guides/mini/guide-nam
 archivesBaseName = "morefuelsmod-1.7.2"
 
 minecraft {
-    version = "1.7.2-10.12.2.1147"
+    version = "1.7.10-10.13.4.1614"
     runDir = "eclipse"
 }
 
